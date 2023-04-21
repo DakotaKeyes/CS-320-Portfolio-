@@ -1,14 +1,14 @@
 # CS-320-Portfolio-
-## CS-320 Project 2 
+# CS-320 Project 2 
 
-### How can I ensure that my code, program, or software is functional and secure?
+## How can I ensure that my code, program, or software is functional and secure?
 
 Software security measures help to protect against unauthorized access, data leaks, theft of data, and other security threats. Cyber security is a separate subfield of software development that protects computer networks, mobile devices, and data from unauthorized access. Although cyber security is a different role, software developers must employ security measures within their code to ensure data is protected and safe. For example, DevSecOps incorporates security within the code at each development phase rather than implementing security measures after testing reveals a faulty or defective component.   Many techniques are available that increase security and reduce the risk of threats, such as storing the code in a secure, restricted-access repository and utilizing version control for tracking changes to the code. In addition, software/code should be tested and checked for functionality. The most common is unit testing, where the developer creates unit tests to check individual elements (units) for functionality and internal logic. In unit testing, code coverage will be mandatory. Other types of testing, such as integration and acceptance testing, can be utilized to check the software's functionality.
 
-#### How do I interpret user needs and incorporate them into a program?
+## How do I interpret user needs and incorporate them into a program?
 
 User needs (user stories) are the functional requirements of a program or system. Comprehending the user's needs is one of the most paramount aspects of a software development project. Researching and acquiring a deep comprehension of the user and their context for using the software is a fundamental step in SDLC. It is essential to understand the user needs and develop the system through their perspective and not solely focus on the project through a technical lens. Producing requirements documentation, researching and examining the user/business context, conducting interviews, asking questions, and working to understand the client and the system they want will promote high-quality software. 
 
-##### How do I approach designing software?
+## How do I approach designing software?
 
 My software design process has evolved as I practice coding and accumulate more experience. For example, a year ago, I approached a project differently and often needed to pay more attention to critical design and planning aspects, leading to defects and flaws that had to be changed. When I approach developing software now, I focus on the requirements and ensure I have a thorough understanding before I code anything. I like to understand the functional and non-functional requirements and then break down each component into further detail. Excessive planning was unnecessary, but proper planning will save time and effort in the implementation phase, which is the most time-consuming phase in the cycle.  
